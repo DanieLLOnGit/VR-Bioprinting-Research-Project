@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2048
     height: 1060.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40
+  controlID: 55
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 110
+  controlID: 112
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 46
+  controlID: 83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 26.372889, y: -3.9884624, z: -32.536453}
+    m_Target: {x: 12.173984, y: -11.074018, z: 81.32526}
     speed: 2
-    m_Value: {x: 26.372889, y: -3.9884624, z: -32.536453}
+    m_Value: {x: 12.173984, y: -11.074018, z: 81.32526}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -703,13 +703,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.021670824, y: 0.97220796, z: -0.101354346, w: 0.21074323}
+    m_Target: {x: 0.09081253, y: 0.07398037, z: -0.0072834627, w: 0.9933336}
     speed: 2
-    m_Value: {x: 0.02354809, y: 0.96913517, z: -0.103977636, w: 0.22228652}
+    m_Value: {x: 0.08924451, y: 0.08142036, z: -0.007840177, w: 0.99264526}
   m_Size:
-    m_Target: 33.078686
+    m_Target: 41.36559
     speed: 2
-    m_Value: 33.078686
+    m_Value: 43.314754
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -835,18 +835,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d052fffffc52ffff907affffbc7affff9cc1ffffc8c1ffff70d9ffff9cd9ffff26fbffff
+      m_ExpandedIDs: ec08ffff5a3dffff863dffff5a65ffff8665ffffc28cffffee8cffff409affff709affff749affff44f3ffff28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 2
-        m_OriginalName: 2
+        m_Name: Cylinder.015
+        m_OriginalName: Cylinder.015
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -44292
+        m_UserData: -3404
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -901,7 +901,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets
+    - Assets/Meterials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -916,7 +916,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 103e0000
     m_LastClickedID: 15888
-    m_ExpandedIDs: 00000000887100008a7100008c7100008e7100009071000092710000
+    m_ExpandedIDs: 00000000987000009a7000009c7000009e700000a0700000a2700000a4700000a6700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -944,7 +944,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000887100008a7100008c7100008e7100009071000092710000d2710000c2760000
+    m_ExpandedIDs: ffffffff00000000987000009a7000009c7000009e700000a0700000a2700000a6700000e0700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

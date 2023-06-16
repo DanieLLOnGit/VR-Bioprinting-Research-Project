@@ -15,7 +15,7 @@ C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting 
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65404
+55164
 Successfully changed project path to: C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity
 C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting 
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23052] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 229764937 [EditorId] 229764937 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [30116] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 1049944132 [EditorId] 1049944132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [23052] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 229764937 [EditorId] 229764937 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [30116] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 1049944132 [EditorId] 1049944132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 177.19 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 189.48 ms, found 6 plugins.
 Preloading 1 native plugins for Editor in 0.76 ms.
 Initialize engine version: 2021.3.19f1 (c9714fde33b6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Resources/UnitySubsystems
@@ -67,58 +67,58 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007343 seconds.
+Registered in 0.010379 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 337 ms
+Android Extension - Scanning For ADB Devices 357 ms
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 185.76 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.17 ms.
+Refreshing native plugins compatible for Editor in 169.52 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.370 seconds
+- Completed reload, in  1.408 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1372ms)
-		BeginReloadAssembly (99ms)
+	ReloadAssembly (1409ms)
+		BeginReloadAssembly (91ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1116ms)
-			LoadAssemblies (97ms)
+		EndReloadAssembly (1155ms)
+			LoadAssemblies (90ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (155ms)
+			SetupTypeCache (175ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (849ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (866ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (454ms)
+				InitializePlatformSupportModulesInManaged (477ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (186ms)
-				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (137ms)
-				ProcessInitializeOnLoadMethodAttributes (68ms)
+				RefreshPlugins (170ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (142ms)
+				ProcessInitializeOnLoadMethodAttributes (75ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.012065 seconds.
+Registered in 0.009618 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 189.32 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.12 ms.
+Refreshing native plugins compatible for Editor in 189.83 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.xr.oculus@3.2.3\Runtime\OculusLoader.cs:296 
@@ -136,43 +136,43 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  2.213 seconds
+- Completed reload, in  2.154 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2214ms)
-		BeginReloadAssembly (170ms)
+	ReloadAssembly (2156ms)
+		BeginReloadAssembly (150ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (1858ms)
-			LoadAssemblies (139ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1838ms)
+			LoadAssemblies (129ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (452ms)
+			SetupTypeCache (418ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (107ms)
-			SetupLoadedEditorAssemblies (1046ms)
+			RebuildScriptCaches (104ms)
+			SetupLoadedEditorAssemblies (1075ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
+				InitializePlatformSupportModulesInManaged (31ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (190ms)
-				BeforeProcessingInitializeOnLoad (183ms)
-				ProcessInitializeOnLoadAttributes (495ms)
-				ProcessInitializeOnLoadMethodAttributes (143ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				BeforeProcessingInitializeOnLoad (190ms)
+				ProcessInitializeOnLoadAttributes (513ms)
+				ProcessInitializeOnLoadMethodAttributes (138ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.92 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.20 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
 Unloading 5521 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 33 unused Assets / (349.1 KB). Loaded Objects now: 5985.
 Memory consumption went from 223.7 MB to 223.4 MB.
-Total: 4.938000 ms (FindLiveObjects: 0.536800 ms CreateObjectMapping: 0.297300 ms MarkObjects: 3.857400 ms  DeleteObjects: 0.245000 ms)
+Total: 5.469400 ms (FindLiveObjects: 0.676200 ms CreateObjectMapping: 0.402700 ms MarkObjects: 4.109900 ms  DeleteObjects: 0.278900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -187,115 +187,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 161751.132029 seconds.
+  Time since last request: 191862.136891 seconds.
   path: Assets/Assets/MarsBaseWithInterior.fbx
-  artifactKey: Guid(23d3365b84e284e47946cd6601d3719d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(23d3365b84e284e47946cd6601d3719d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21858dd70e3251693e97dd9dc12c5e8') in 0.764501 seconds 
+  artifactKey: Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81232856b95f9cb388ecdc456c5614b4') in 0.786687 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 88.100441 seconds.
-  path: Assets/Assets/MarsBaseWithInterior.blend
-  artifactKey: Guid(0307ddc12971a924d928aaf5de2a0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.blend using Guid(0307ddc12971a924d928aaf5de2a0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed632a14512edb21b93f23107dde6f9d') in 0.242132 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 37.943626 seconds.
-  path: Assets/Assets/MarsBaseWithInterior.blend
-  artifactKey: Guid(0307ddc12971a924d928aaf5de2a0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.blend using Guid(0307ddc12971a924d928aaf5de2a0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249cd923e4b0dbb701c21a2fc3f43b6f') in 0.196710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 428.789910 seconds.
+  Time since last request: 344.613313 seconds.
   path: Assets/Assets/MarsBaseWithInterior.fbx
-  artifactKey: Guid(23d3365b84e284e47946cd6601d3719d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(23d3365b84e284e47946cd6601d3719d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97122970e9f6c7f36feef332d63c6cd') in 0.202722 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 464.341180 seconds.
-  path: Assets/Assets/MarsBaseWithInterior1.fbx
-  artifactKey: Guid(ab3a8c3d8e5c8e4428110afc236bba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior1.fbx using Guid(ab3a8c3d8e5c8e4428110afc236bba6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77952bba61c99c0dbeed8be6735c56f4') in 0.092798 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 133.033934 seconds.
-  path: Assets/Assets/MarsBaseWithInterior2.fbx
-  artifactKey: Guid(b449a8f2a01c6ec4eb191dc0533d49e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior2.fbx using Guid(b449a8f2a01c6ec4eb191dc0533d49e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46898edff98a96eb058cb159e5315a76') in 0.258542 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1450.885715 seconds.
-  path: Assets/Assets/MarsBaseWithInterior3.fbx
-  artifactKey: Guid(4cea4a84c343b8e40b2b6df2ceb20001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior3.fbx using Guid(4cea4a84c343b8e40b2b6df2ceb20001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e47c27a133f05a35e76559fb1e6e48a') in 0.224056 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 204.333446 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortest.fbx
-  artifactKey: Guid(55a67a0bd62d77f4eb0b62562f5007d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortest.fbx using Guid(55a67a0bd62d77f4eb0b62562f5007d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8391630efa27602147c24b2934146a9c') in 0.213535 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 510.588031 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortesqt.fbx
-  artifactKey: Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortesqt.fbx using Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd0555a704321946e4ffa909f0afe91') in 0.234588 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 70.893205 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortesqt.fbx
-  artifactKey: Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortesqt.fbx using Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ddd0786b4f45a9459308208023175e') in 0.154566 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.863053 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortesqt.fbx
-  artifactKey: Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortesqt.fbx using Guid(a2ea8636ac9468e4c8ea5a3a96defb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff3c05dea7abf21aa600e423483b162') in 0.207236 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 89.858702 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortesfefqt.fbx
-  artifactKey: Guid(8d63af171c5b65a42a7ba0f26a17046e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortesfefqt.fbx using Guid(8d63af171c5b65a42a7ba0f26a17046e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a6e1b78ca8e2c3847bf9c2b50bd37a') in 0.234000 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 55.156992 seconds.
-  path: Assets/Assets/MarsBaseWithInteriortesd3d33dfefqt.fbx
-  artifactKey: Guid(3931e9bab2c8f5140b1c23e59b6d6ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInteriortesd3d33dfefqt.fbx using Guid(3931e9bab2c8f5140b1c23e59b6d6ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8b668037a7b390323318c760654e8b') in 0.260810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 95.059100 seconds.
-  path: Assets/Assets/wdwdwwdwdwd.fbx
-  artifactKey: Guid(434112bb5e9aa9242bdfada6fbc3f918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/wdwdwwdwdwd.fbx using Guid(434112bb5e9aa9242bdfada6fbc3f918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00eb594225af278e3224b4168824ce86') in 0.235576 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 122.503302 seconds.
-  path: Assets/Assets/wdwdwwsdsddwdwd.fbx
-  artifactKey: Guid(53050c5c3e0499341bb1f765785c262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/wdwdwwsdsddwdwd.fbx using Guid(53050c5c3e0499341bb1f765785c262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff681ca2ef3f1b673a940ab1206272c') in 0.263617 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 47.799285 seconds.
-  path: Assets/Assets/wdwdwwsdswdwdwdddwdwd.fbx
-  artifactKey: Guid(a683c0d3cbecf07498fab9c64173b747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/wdwdwwsdswdwdwdddwdwd.fbx using Guid(a683c0d3cbecf07498fab9c64173b747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f3cd15e3b66aab468dd26bd3e48145') in 0.324669 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1297.045338 seconds.
-  path: Assets/Assets/1.fbx
-  artifactKey: Guid(6137047892ea2334c95a350487e16a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/1.fbx using Guid(6137047892ea2334c95a350487e16a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5786e5279fea50fcfd1b71c3df2664ba') in 0.244904 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 543.532866 seconds.
-  path: Assets/Assets/2.fbx
-  artifactKey: Guid(ab176feb5aa311b459b138131d97d729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/2.fbx using Guid(ab176feb5aa311b459b138131d97d729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abfa4359e4b9217456b68012bd26d44') in 0.258662 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.424210 seconds.
-  path: Assets/Assets/3.fbx
-  artifactKey: Guid(a47a3b10d7664b949b5c63ff329cb5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/3.fbx using Guid(a47a3b10d7664b949b5c63ff329cb5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7f7b2125c1550334ad56e4540234c0') in 0.237105 seconds 
+  artifactKey: Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c646ca7340cad1f3fd97b8ac77354b') in 0.355129 seconds 
