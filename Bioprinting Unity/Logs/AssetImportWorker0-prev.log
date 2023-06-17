@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.19f1 (c9714fde33b6) revision 13201743'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 32510 MB
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 15596 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Unity.exe
+C:\Program Files\Unity 2021.3.19f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity
+C:/Users/danie/OneDrive/Documents/GitHub/VR-Bioprinting-Research-Project/Bioprinting Unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55164
-Successfully changed project path to: C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity
-C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity
+52772
+Successfully changed project path to: C:/Users/danie/OneDrive/Documents/GitHub/VR-Bioprinting-Research-Project/Bioprinting Unity
+C:/Users/danie/OneDrive/Documents/GitHub/VR-Bioprinting-Research-Project/Bioprinting Unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,82 +47,75 @@ C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting 
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [30116] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 1049944132 [EditorId] 1049944132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [18944] Host "[IP] 192.168.1.181 [Port] 0 [Flags] 2 [Guid] 2703356595 [EditorId] 2703356595 [Version] 1048832 [Id] WindowsEditor(7,Daniel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [30116] Host "[IP] 192.168.119.1 [Port] 0 [Flags] 2 [Guid] 1049944132 [EditorId] 1049944132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-I15ER0Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [18944] Host "[IP] 192.168.1.181 [Port] 0 [Flags] 2 [Guid] 2703356595 [EditorId] 2703356595 [Version] 1048832 [Id] WindowsEditor(7,Daniel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 189.48 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.76 ms.
+Refreshing native plugins compatible for Editor in 104.39 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.57 ms.
 Initialize engine version: 2021.3.19f1 (c9714fde33b6)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Naijei/Desktop/Github Repo/VR-Bioprinting-Research-Project/Bioprinting Unity/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danie/OneDrive/Documents/GitHub/VR-Bioprinting-Research-Project/Bioprinting Unity/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
-    Vendor:   NVIDIA
-    VRAM:     8033 MB
-    Driver:   31.0.15.3203
+    Renderer: AMD Radeon RX 6700S (ID=0x73ef)
+    Vendor:   ATI
+    VRAM:     8146 MB
+    Driver:   31.0.12024.2005
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Mono path[0] = 'C:/Program Files/Unity 2021.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2021.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010379 seconds.
+Register platform support module: C:/Program Files/Unity 2021.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002321 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 357 ms
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 169.52 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.11 ms.
+Refreshing native plugins compatible for Editor in 97.35 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.408 seconds
+- Completed reload, in  0.601 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1409ms)
-		BeginReloadAssembly (91ms)
+	ReloadAssembly (601ms)
+		BeginReloadAssembly (56ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1155ms)
-			LoadAssemblies (90ms)
+		EndReloadAssembly (455ms)
+			LoadAssemblies (55ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (175ms)
+			SetupTypeCache (84ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (866ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (306ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (477ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (170ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (142ms)
-				ProcessInitializeOnLoadMethodAttributes (75ms)
+				RefreshPlugins (98ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (147ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009618 seconds.
+Registered in 0.010247 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\danie\OneDrive\Documents\GitHub\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\danie\OneDrive\Documents\GitHub\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 189.83 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
+Refreshing native plugins compatible for Editor in 100.98 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.xr.oculus@3.2.3\Runtime\OculusLoader.cs:296 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\Naijei\Desktop\Github Repo\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.xr.oculus@3.2.3\Runtime\OculusLoader.cs:281 
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\danie\OneDrive\Documents\GitHub\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.xr.oculus@3.2.3\Runtime\OculusLoader.cs:296 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\danie\OneDrive\Documents\GitHub\VR-Bioprinting-Research-Project\Bioprinting Unity\Library\PackageCache\com.unity.xr.oculus@3.2.3\Runtime\OculusLoader.cs:281 
   at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
   at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <03bd9b261dff4c2b8b568aca27f561b2>:0 
    --- End of inner exception stack trace ---
@@ -136,43 +129,43 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  2.154 seconds
+- Completed reload, in  1.151 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2156ms)
-		BeginReloadAssembly (150ms)
+	ReloadAssembly (1152ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (28ms)
-		EndReloadAssembly (1838ms)
-			LoadAssemblies (129ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (966ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (418ms)
+			SetupTypeCache (229ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (104ms)
-			SetupLoadedEditorAssemblies (1075ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (559ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (31ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (190ms)
-				BeforeProcessingInitializeOnLoad (190ms)
-				ProcessInitializeOnLoadAttributes (513ms)
-				ProcessInitializeOnLoadMethodAttributes (138ms)
-				AfterProcessingInitializeOnLoad (11ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (288ms)
+				ProcessInitializeOnLoadMethodAttributes (72ms)
+				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 1.31 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.12 ms.
-Unloading 5521 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 33 unused Assets / (349.1 KB). Loaded Objects now: 5985.
-Memory consumption went from 223.7 MB to 223.4 MB.
-Total: 5.469400 ms (FindLiveObjects: 0.676200 ms CreateObjectMapping: 0.402700 ms MarkObjects: 4.109900 ms  DeleteObjects: 0.278900 ms)
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 5519 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (0.7 MB). Loaded Objects now: 5978.
+Memory consumption went from 222.5 MB to 221.8 MB.
+Total: 4.935000 ms (FindLiveObjects: 0.566600 ms CreateObjectMapping: 0.507300 ms MarkObjects: 3.459200 ms  DeleteObjects: 0.400400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -187,13 +180,31 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 191862.136891 seconds.
-  path: Assets/Assets/MarsBaseWithInterior.fbx
-  artifactKey: Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81232856b95f9cb388ecdc456c5614b4') in 0.786687 seconds 
+  Time since last request: 86388.331811 seconds.
+  path: Assets/Assets
+  artifactKey: Guid(8ae680f18e387dc43b49e522e9886ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets using Guid(8ae680f18e387dc43b49e522e9886ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8178ef895b930393b8822c188c9077a') in 0.020766 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 344.613313 seconds.
-  path: Assets/Assets/MarsBaseWithInterior.fbx
-  artifactKey: Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/MarsBaseWithInterior.fbx using Guid(7d82b55b598c0a344bc5b045d48e98e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c646ca7340cad1f3fd97b8ac77354b') in 0.355129 seconds 
+  Time since last request: 8.603854 seconds.
+  path: Assets/Assets/SpaceTable.blend
+  artifactKey: Guid(e09e87d77463a4843a93ca2422ecbc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SpaceTable.blend using Guid(e09e87d77463a4843a93ca2422ecbc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c920c7c67dd1699354b3ec3d17abca') in 0.508907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.903086 seconds.
+  path: Assets/SpaceTable.fbx
+  artifactKey: Guid(7b9afcf8eebb8064c864237a7381354f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceTable.fbx using Guid(7b9afcf8eebb8064c864237a7381354f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e16d318b800f3f16a4be810461e8ae1') in 0.048862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 360.316538 seconds.
+  path: Assets/Test Tubes.blend
+  artifactKey: Guid(ceb03266de893ef4fb4b7981ae250e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test Tubes.blend using Guid(ceb03266de893ef4fb4b7981ae250e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45219814bacf0d8d0817933eb6d17173') in 0.219427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 148.320415 seconds.
+  path: Assets/Test Tubes.fbx
+  artifactKey: Guid(c0d3d01baa5fd474a8774efb13822791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test Tubes.fbx using Guid(c0d3d01baa5fd474a8774efb13822791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92e761a49c6e0812dd4840e18a2872b') in 0.200803 seconds 
