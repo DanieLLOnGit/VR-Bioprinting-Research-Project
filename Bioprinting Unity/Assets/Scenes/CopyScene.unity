@@ -3943,7 +3943,7 @@ MonoBehaviour:
     m_Bits: 2
   m_AttachTransform: {fileID: 612910627}
   m_KeepSelectedTargetValid: 1
-  m_StartingSelectedInteractable: {fileID: 2140697812}
+  m_StartingSelectedInteractable: {fileID: 0}
   m_StartingTargetFilter: {fileID: 0}
   m_HoverEntered:
     m_PersistentCalls:
